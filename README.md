@@ -4,3 +4,22 @@ This repository is the open-source companion to our paper, containing the comple
 ## Commercial Use Restriction  
 This project is licensed under GPL-3.0, **commercial use is strictly prohibited**.  
 For any commercial purposes, please contact the author separately to obtain written permission.
+
+
+```text
+repository/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── data/
+│   ├── README_data.md
+│   └── *.csv / *.json / *.xlsx
+├── figures/
+│   ├── *.png
+│   └── README_figures.md
+├── videos/
+│   ├── *.gif
+│   └── README_videos.md
+└── scripts/
+    └── README_scripts.md
+```
